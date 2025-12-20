@@ -180,4 +180,4 @@ It is a protocol for **being counted without being exposed**.
 
 The protocol exists so that participation itself becomes visible—without demanding courage, charisma, or conformity.
 
-email(fishspr0038@yahoo.co.jp)URL(voice-of-japan.net)
+Contact：fishspr0038@yahoo.co.jp　URL：voice-of-japan.net
