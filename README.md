@@ -181,3 +181,50 @@ It is a protocol for **being counted without being exposed**.
 The protocol exists so that participation itself becomes visible—without demanding courage, charisma, or conformity.
 
 Contact：fishspr0038@yahoo.co.jp　URL：voice-of-japan.net
+
+## Detailed System Vision: "The Endless March"
+
+To realize a truly impactful digital protest, the system will focus on the following visual and technical specifications:
+
+### 1. Visual Perspective & Scalability
+* **Side-Scrolling View:** The primary view will be a side-profile of the march, creating a sense of an endless, powerful stream of people.
+* **Cell-Based Architecture:** Avatars are managed in "units" (cells) of 50 to 100 individuals. By repeating and layering these units, the system can visualize a massive protest of **10,000 to 100,000+ participants** without overloading the browser.
+* **Animation:** Each avatar will have 3-4 frames of walking animation to create a lifelike movement.
+
+### 2. Avatar Diversity & Interaction
+* **Diverse Categories:** We provide dozens of avatar types to represent social diversity, including:
+    * Serious/Professional styles
+    * Playful/Humorous characters
+    * Animal personifications
+    * Traditional/Ethnic costumes
+    * Non-copyright-infringing "Hero" archetypes
+* **Individual Voice:** Each avatar displays a Handle Name above its head. Clicking the name triggers a **speech bubble** containing the user’s specific text-based opinion.
+
+### 3. Data & Sentiment Visualization
+* **Sentiment Bar:** A visual indicator at the bottom of the screen showing the ratio of "Pros" and "Cons" based on the latest data cutoff.
+* **Moderation:** Integration with AI (e.g., OpenAI API) to ensure a safe environment by filtering hate speech and defamation.
+
+---
+I am looking for developers who can help build this "Cell-based Side-Scrolling Engine" using modern web technologies like WebGL, Three.js, or advanced Canvas API.
+
+Subject/Headline: A Safe Way to March: Virtual Protest Protocol for Myanmar and Hong Kong
+
+To my friends in Myanmar, Hong Kong, and everywhere fighting for democracy,
+
+I am an activist in Japan developing the "Virtual Protest Protocol." I believe that even if they take away our streets, they cannot take away our voices.
+
+I am building a system where tens of thousands can march together safely using Avatars.
+
+Why this is for you:
+
+Safety First: March anonymously using avatars to protect your identity from surveillance.
+
+Strength in Numbers: Visualize a march of 100,000+ people to show the world we are still here.
+
+Global Solidarity: A platform where people from Japan and the world can join your march in a digital space.
+
+GitHub: https://github.com/voice-of-japan/Virtual-Protest-Protocol
+
+I am looking for collaborators to implement this. Once this system is ready, we will march together in the digital world. You are not alone.
+
+#StandWithMyanmar #StandWithHongKong #MilkTeaAlliance #DigitalDemocracy
