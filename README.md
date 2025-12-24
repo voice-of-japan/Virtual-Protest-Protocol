@@ -1,4 +1,19 @@
-# Open Digital Protest Protocol (ODPP)
+# Open Digital Protest Protocol (ODPP）
+
+**「沈黙を破り、次世代に反撃の場を」**
+ このプロジェクトは、1950年生まれの私（発起人）が、これからの格差社会と負債を背負わせてしまった若い世代への責任と、深い悔恨の念から立ち上げたものです。
+「日本の声（Voice of Japan）」は、日本に住む若者、そしてミャンマーや香港など、自由を求めて闘うすべての人々が、物理的な制約を超えて「安全に、かつ効果的に」声を上げられるデジタル・プラットフォームを目指しています。
+
+"Breaking the Silence: Providing a Platform for Resistance to the Next Generation"**
+ 
+ This project was launched by the founder (born in 1950) out of a deep sense of responsibility and regret toward the younger generation. "Voice of Japan" aims to provide a digital platform where young people in Japan—as well as those fighting for freedom in Myanmar, Hong Kong, and beyond—can raise their voices "safely and effectively."
+
+  🕊️ 私たちの目的 / Our Mission
+1. **反撃のツールの提供 / Empowerment**: 既存の社会構造の中で声を上げにくい人々に、デジタルな「武器（言葉と連帯）」を提供します。
+2. **国境を超えた連帯 / Global Solidarity**: ミャンマーや香港など、民主主義を希求する人々へ支援と場を提供します。 (Providing a space 　　for those seeking democracy in Myanmar, Hong Kong, and beyond.)
+3. **フルスペック・オープンソース / Open Source**: この仕組みは誰のものでもありません。より良いものにしてくれる主体を歓迎します。 (We 　　welcome anyone who wishes to take the lead and improve this system.)
+ 
+ [Official Website: 日本の声 (Voice of Japan)](https://voice-of-japan.net)
 
 ## 1. Purpose & Vision
 
