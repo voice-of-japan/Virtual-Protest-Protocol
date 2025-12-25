@@ -80,3 +80,39 @@ I am building this system so that tens of thousands can march together safely us
 
 **Contact**：fishspr0038@yahoo.co.jp  
 **Website**：[voice-of-japan.net](https://voice-of-japan.net)
+
+♯#Specifications and Protocol Rules / 技術仕様およびプロトコル規約
+1. Identity & Presence / アイデンティティと存在
+1 User = 1 Avatar: Users select from dozens of diverse 2D avatars (including professional, casual, and playful characters).
+
+1ユーザー = 1アバター: 数十種類のアバター（真面目なもの、デフォルメされたもの、動物、野菜、服だけの透明人間など）から1つを選択。
+
+Handle Name: Limited to 10 characters. It is displayed above the avatar to assist in visual duplicate checks.
+
+ハンドルネーム: 10文字以内。二重投稿の目視チェックを助けるため、アバターの上に表示。
+
+Message (Speech Bubble): Limited to 80 characters to ensure concise and powerful messaging.
+
+吹き出し（主張）: 80文字以内。簡潔で力強いメッセージを維持するため。
+
+2. Visual Structure / 視覚的構造
+Cell Separation: Avatars are placed in separate "Support" and "Protest" cells. They do not mix, ensuring the "Will of the People" is instantly quantifiable by visual density.
+
+セルの分離: アバターは「賛成」と「反対」の独立したセルに配置されます。両者が混ざることはなく、視覚的な密度によって民意を即座に数値化します。
+
+3. National Sovereignty & Safety (The "Voice-of-Nation" Rule) / 主権維持と安全性の原則
+Domestic Focus: Each site (e.g., voice-of-japan.org, voice-of-america.org) is strictly for residents of that nation to discuss domestic issues.
+
+国内問題限定: 各サイト（voice-of-japan.org 等）は、その国の在住者が自国の国内問題を議論するために限定されます。
+
+Local Protests Only: Virtual rallies/marches must be limited to actual domestic locations and domestic issues. For example, holding a virtual protest in a foreign landmark (e.g., Tiananmen Square) via a domestic site is strictly prohibited. This prevents the platform from inviting unnecessary foreign cyber-attacks or international friction.
+
+国内のデモ・集会に限定: バーチャルデモの舞台は、国内の実在する場所に限定されます。 例えば、日本版のサイトを使って他国の場所（天安門広場など）を舞台にデモ行進を行うことは、不要なサイバー攻撃や国際紛争を招く恐れがあるため、厳禁とします。
+
+Non-Interference: By restricting participation and locations to domestic boundaries, we protect the community from cross-border public opinion manipulation and cyber threats.
+
+他国干渉の禁止: 参加者と場所を国内に限定することで、他国からの世論操作やサイバー攻撃からコミュニティを守ります。
+
+International Issues: Global topics will be hosted on a separate platform with distinct international protocols.
+
+国際問題は別枠: 国際的なトピックについては、別のプロトコルに基づいた専用サイトで別途提供します。
