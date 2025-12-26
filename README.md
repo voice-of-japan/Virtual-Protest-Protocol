@@ -5,6 +5,12 @@ an open, non-partisan protocol for enabling anonymous, low-threshold civic expre
 本リポジトリは **Virtual Protest Protocol（VPP）** を提案するものです。  
 VPP は、デジタル空間において **匿名かつ低負荷で市民的意思表明を可能にする、非党派的・オープンなプロトコル** です。
 
+This specification is proposed in the context of growing challenges around in-person civic action and digital participation, including concerns about safety, accessibility, and social pressure.
+
+本仕様は、対面でのデモや集会、ならびにデジタル空間での市民参加をめぐる課題  
+（安全性、参加のしやすさ、社会的圧力など）が高まっている現状を背景として提案されています。
+
+The following sections describe the background, design considerations, and draft specifications that motivated this proposal.
 ---
 
 VPP is not a political campaign, organization, or platform.  
