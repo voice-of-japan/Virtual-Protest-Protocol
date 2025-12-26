@@ -1,4 +1,25 @@
 🕊️ VPP: Virtual Protest Protocol (v1.0)
+This repository proposes **Virtual Protest Protocol (VPP)** —  
+an open, non-partisan protocol for enabling anonymous, low-threshold civic expression in digital space.
+
+本リポジトリは **Virtual Protest Protocol（VPP）** を提案するものです。  
+VPP は、デジタル空間において **匿名かつ低負荷で市民的意思表明を可能にする、非党派的・オープンなプロトコル** です。
+
+---
+
+VPP is not a political campaign, organization, or platform.  
+It is a **public protocol specification** designed to be implemented, adapted, or extended by any individual or organization with appropriate capacity and responsibility.
+
+VPP は、特定の政治運動・団体・サービスではありません。  
+本リポジトリは、**適切な能力と責任を有する個人・組織によって実装・改変・拡張されることを前提とした、公共的プロトコル仕様**を提示するものです。
+
+---
+
+The original proposer does not seek to retain ownership, leadership, or control.  
+If this protocol proves useful, it is expected — and welcomed — that others will realize it in more suitable forms.
+
+本プロトコルの提唱者は、所有権・主導権・管理権を保持することを目的としていません。  
+本提案が有用である場合、**第三者によって、より適切な形で実装・発展されることを想定し、歓迎します。**
 2D Avatar-based Digital Assembly System
 🌟 Vision / プロジェクトの核心
 「家から、アバターで、声を届ける。」
