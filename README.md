@@ -44,3 +44,11 @@ Email: [fishspr@gmai.comE
 GitHub Issues: Please open an issue for technical discussions.
 
 MIT License | Virtual Protest Protocol Project
+
+### 🛠️ Reference Implementation / 実装リファレンス
+* **Avatar Engine**: 
+    * [EN] Considering using **avtrigen** or similar SVG-based component systems for lightweight, customizable, and safe avatar generation.
+    * [JP] 軽量かつ安全なアバター生成のため、**avtrigen** 等のSVGコンポーネントベースのシステムを技術候補として検討しています。
+* **Motion & Customization**: 
+    * [EN] Extending existing libraries to support 3-4 stage animations and custom designer assets (ethnic costumes, etc.).
+    * [JP] 既存ライブラリを拡張し、3〜4段階のアニメーションやデザイナー制作のカスタムパーツ（民族衣装等）への対応を計画しています。
