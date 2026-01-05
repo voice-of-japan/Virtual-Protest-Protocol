@@ -259,7 +259,17 @@ MIT License | Virtual Protest Protocol Project
 
 ことを基本原則とします。
 
----
+本プロジェクトにおけるアバターは、
+個人を特定せずに意思表示を可視化するための象徴的存在である。
+
+自己表現の競争やキャラクター性の誇張を目的とせず、
+「誰が言ったか」ではなく
+「どれだけの意思が集まったか」を示すことを重視する。
+
+そのため、アバターは実在人物や著作物を想起させない
+完全オリジナルとし、
+年齢・性別・身体条件・文化背景の多様性を肯定しつつ、
+真面目さとユーモアが共存する設計とする。---
 
 ### 3.2 アバター仕様（概要）
 
@@ -389,3 +399,5 @@ MIT License | Virtual Protest Protocol Project
 * **Motion & Customization**: 
     * [EN] Extending existing libraries to support 3-4 stage animations and custom designer assets (ethnic costumes, etc.).
     * [JP] 既存ライブラリを拡張し、3〜4段階のアニメーションやデザイナー制作のカスタムパーツ（民族衣装等）への対応を計画しています。
+ 
+  
