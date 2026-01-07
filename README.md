@@ -400,4 +400,43 @@ MIT License | Virtual Protest Protocol Project
     * [EN] Extending existing libraries to support 3-4 stage animations and custom designer assets (ethnic costumes, etc.).
     * [JP] 既存ライブラリを拡張し、3〜4段階のアニメーションやデザイナー制作のカスタムパーツ（民族衣装等）への対応を計画しています。
  
+* ## X. Regional Adaptation: United States (US Model – Draft)
+
+### X.1 Role of the US Implementation
+While VPP deployments in most regions are expected to operate under non-profit models,
+the U.S. implementation is designed as a revenue-generating hub.
+Its purpose is to financially support non-profit VPP deployments in other countries.
+
+### X.2 Participation Modes
+Due to the high level of social polarization in the United States,
+participation options include three modes:
+
+- YES: Expressing support
+- NO: Expressing opposition
+- OBSERVE: Indicating active attention and civic interest without verbal expression
+
+The OBSERVE option represents conscious engagement,
+not indifference or passive consent.
+
+### X.3 Revenue Structure
+U.S. implementations may adopt multiple revenue streams, including:
+
+- Donations
+- Advertising (e.g. along virtual protest routes, separated from opinion content)
+- Aggregated, anonymized participation data for media and research use
+
+No personally identifiable information is collected or sold.
+
+### X.4 Avatar Licensing
+Popular avatars may be licensed for third-party merchandise production.
+The VPP operators do not engage in direct merchandising to avoid operational burden
+and to maintain separation between civic expression and commerce.
+
+Advertising opportunities are offered selectively.
+Entities whose primary activities are related to war,
+armed conflict, or regionally sensitive security issues
+are not considered as advertising partners.
+
+
+ 
   
