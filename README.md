@@ -1,5 +1,5 @@
 VPP: Virtual Protest Protocol (v1.0)
-TL;DR / 要約（最重要）
+TL;DR / 要約
 
 [EN]
 VPP (Virtual Protest Protocol) is an open, non-partisan protocol for enabling anonymous, low-threshold civic expression in digital space.
@@ -22,6 +22,34 @@ This specification is proposed in the context of growing challenges around in-pe
 [JP]
 本仕様は、対面でのデモや集会、ならびにデジタル空間での市民参加をめぐる課題
 （安全性、参加のしやすさ、社会的圧力など）が高まっている現状を背景として提案されています。
+
+【EN】
+### Naming Convention and Solidarity Principle
+
+VPP deployments outside the United States are encouraged to adopt the naming convention  
+**voice-of-(nation)** (e.g. voice-of-japan, voice-of-germany).
+
+This convention is not merely a domain or branding rule.
+It represents a design principle in which each deployment visualizes civic expression
+within its own national context and sovereignty,
+while remaining horizontally connected to other VPP implementations.
+
+There is no central authority, global headquarters, or hierarchical control.
+All national deployments participate as equal peers
+within a shared, open protocol ecosystem.
+
+【JP】
+### 命名規則と連帯の原則
+
+米国以外の VPP 実装は、  
+**voice-of-(nation)**（例：voice-of-japan、voice-of-germany）という命名規則の採用を推奨します。
+
+この命名は単なるドメインやブランド規則ではありません。
+各実装が、それぞれの国家・社会の文脈と主権のもとで市民的意思を可視化しつつ、
+他国の VPP 実装と水平に連帯するという設計原則を示すものです。
+
+VPP には中央集権的な管理主体や階層的統制は存在しません。
+すべての国家実装は、共通のオープンなプロトコルに基づく対等な参加者です。
 
 2. Nature of the Project / プロジェクトの性格
 
@@ -52,9 +80,14 @@ Realizing "Virtual Demos" where individuals can participate from home using 2D a
 集団の意思を安全に可視化します。
 
 4. Overall Structure / 全体構造
-4.1 賛成・反対の二極構造
+[EN]
+The system visualizes collective civic positions through a simple dual structure
+(Support / Oppose), combined with a cell-based participation model.
 
-（※ 原文そのまま）
+This design prioritizes visibility of opinion distribution rather than debate or persuasion,
+while reducing social pressure and system load through automatic cell allocation.
+
+4.1 賛成・反対の二極構造
 
 デモ画面は「賛成」「反対」の2エリアで構成されます
 参加者は、意思表示としていずれか一方を選択します
@@ -65,25 +98,26 @@ Realizing "Virtual Demos" where individuals can participate from home using 2D a
 
 4.2 セル（Cell）構造による参加管理
 
-（※ 原文そのまま）
-
 参加者は 50〜100人単位の「セル」に自動的に割り当てられます
 セルが満員になると、新しいセルが生成されます
 ログイン時、参加者は自動的に自身のセルに配置されます
 自分自身のアバターのみが強調表示されます
 
 5. Avatar Design Philosophy / アバター設計の思想
-5.1 基本方針（強調点）
+[EN]
+Avatars in VPP are designed as symbolic representations of civic presence,
+not as tools for personal branding or identity expression.
 
-（※ 原文そのまま）
+They are fully original, non-identifying, and non-representational of real individuals,
+allowing diversity, humor, and abstraction while keeping focus on the expressed position itself.
+
+5.1 基本方針
 
 本プロジェクトにおけるアバターは、
 個人を特定せずに意思表示を可視化するための「象徴的存在」であり、
 リアルな人物再現や自己表現の競争を目的としない。
 
 5.2 アバター画像カテゴリ案（具体例・全文）
-
-（※ ここがご指摘の核心部分：以下すべて原文）
 
 ① 人の基本形（年齢層の可視化）
 真面目な人物
@@ -138,8 +172,13 @@ Realizing "Virtual Demos" where individuals can participate from home using 2D a
 （⑱〜⑳ 将来拡張枠）
 
 6. Security and Ethics / セキュリティと倫理
+[EN]
+VPP is designed with a strict privacy-first principle.
+No personally identifiable information is collected, stored, or shared.
 
-（※ 原文そのまま）
+Measures against duplicate participation rely on lightweight, non-invasive techniques,
+and ethical considerations are applied to protect participants in regions
+where freedom of expression is restricted.
 
 個人情報は徹底して非収集
 匿名性を保ちつつ、ブラウザ指紋等で二重投稿を排除
