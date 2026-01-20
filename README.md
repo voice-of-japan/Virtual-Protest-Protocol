@@ -317,3 +317,26 @@ Revenue is treated as a means to reinforce global civic infrastructure, not as a
 [JP]
 USモデルは、世界各国の非営利実装と共存することを前提としています。
 収益は目的ではなく、グローバルな市民的基盤を支えるための手段として位置づけられます。
+
+【補足事項 / Additional Information】
+1. デモ期間とデータ消去 / Demo Period and Data Deletion
+日本語: デモ終了後、セキュリティおよびプライバシー保護のため、入力された全てのデータは速やかに消去されます。継続的な保存は保証いたしません。
+English: Upon conclusion of the demo, all entered data will be promptly deleted for security and privacy reasons. Continuous data storage is not guaranteed.
+2. AIによるコミュニティ・モデレーション / AI-Driven Community Moderation
+日本語: リアルタイムで安全な利用環境を維持するため、AIモデレーターによる自動的なフィルタリングを導入しています。差別的な表現、暴言、その他不適切なコンテンツは、システムにより自動的に制限または削除される場合があります。
+English: To maintain a safe environment in real-time, automated filtering by AI moderators is implemented. Content identified as discriminatory, abusive, or otherwise inappropriate may be automatically restricted or removed by the system.
+3. 参加資格および行動規則 / Eligibility and Code of Conduct
+外部からの干渉や攻撃を避け、安全な運営を維持するため、以下の規則を遵守してください。
+To ensure safe operations and prevent external interference or attacks, please adhere to the following rules:
+居住者限定 / Residents Only
+参加者は、当該国内の在住者に限定されます。
+Participation is limited to residents of the respective country.
+使用言語 / Language
+コミュニケーションには、当該国の公用語（国語）を使用してください。
+Please use the official/national language of the respective country for communication.
+対象問題の限定 / Scope of Issues
+活動および議論の対象は、当該国内の問題に限定されます。
+Activities and discussions are limited to domestic issues within the respective country.
+示威行動の範囲 / Scope of Demonstrations
+示威行動は当該国内での活動に限ります。これは、外部からの政治的干渉や攻撃を避けるための安全措置です。
+Demonstrative activities are limited to those within the respective country as a security measure to prevent external political interference or attacks.
