@@ -340,3 +340,16 @@ Activities and discussions are limited to domestic issues within the respective 
 示威行動の範囲 / Scope of Demonstrations
 示威行動は当該国内での活動に限ります。これは、外部からの政治的干渉や攻撃を避けるための安全措置です。
 Demonstrative activities are limited to those within the respective country as a security measure to prevent external political interference or attacks.
+
+## About the Founder / 創設者について
+
+Message from the Founder of "Voice of Japan"
+相沢 乙矢 (Otaya Aizawa)
+私は、プログラミングの専門家ではありません。しかし、2004年に公開され、世界で8億回以上プレイされた伝説的な脱出ゲーム『クリムゾンルーム (Crimson Room)』の価値を見出し、プラットフォームを提供したプロデューサーです。言葉の壁を超えて直感的に世界の人々を繋げる「バイラルな影響力」を、デジタルUIを通じて生み出した実績があります。
+I am not a programming expert. However, I am the producer who identified the value of the legendary escape game "Crimson Room" (2004)—which was played over 800 million times worldwide—and provided its platform. I have a proven track record of creating a "viral impact" that connects people across language barriers through intuitive digital UI.
+その後、魚屋を引退した私は、福島第一原発の建屋内での復興作業に従事し、現在は原発事故賠償の相談窓口の最前線に立っています。巨大な組織が無責任の連鎖を生み、金銭的な賠償が地域社会や人々の誇りを分断する現実を、私はこの目で見てきました。
+After retiring as a fishmonger, I engaged in recovery work inside the Fukushima Daiichi Nuclear Power Plant buildings. Now, I stand on the front lines of the compensation consultation desk. I have witnessed firsthand how giant organizations create a chain of irresponsibility, and how monetary compensation divides local communities and people's pride.
+私は、この社会の「不条理な構造」こそが敵だと確信しています。特定の個人（組織の社員や市民）を攻撃するのではなく、立場を超えて誰もが人間としての尊厳を取り戻し、安全に意思を表明できる場が必要です。
+I am convinced that the "unreasonable social structure" itself is the enemy. We need a place where everyone, regardless of their position, can reclaim their human dignity and express their opinions safely, without attacking specific individuals (employees or citizens).
+この Virtual Protest Protocol (VPP) は、単なる技術的な試みではありません。命が軽んじられる現場を知る私が、「安全に声を上げる自由」を次世代に残すための、人生を賭けた挑戦です。
+The Virtual Protest Protocol (VPP) is more than just a technical endeavor. It is my life's mission to leave the next generation the "freedom to speak safely," built by someone who knows the reality of where life is undervalued.
