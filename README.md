@@ -351,5 +351,6 @@ I am not a programming expert. However, I am the producer who identified the val
 After retiring as a fishmonger, I engaged in recovery work inside the Fukushima Daiichi Nuclear Power Plant buildings. Now, I stand on the front lines of the compensation consultation desk. I have witnessed firsthand how giant organizations create a chain of irresponsibility, and how monetary compensation divides local communities and people's pride.
 私は、この社会の「不条理な構造」こそが敵だと確信しています。特定の個人（組織の社員や市民）を攻撃するのではなく、立場を超えて誰もが人間としての尊厳を取り戻し、安全に意思を表明できる場が必要です。
 I am convinced that the "unreasonable social structure" itself is the enemy. We need a place where everyone, regardless of their position, can reclaim their human dignity and express their opinions safely, without attacking specific individuals (employees or citizens).
-この Virtual Protest Protocol (VPP) は、単なる技術的な試みではありません。命が軽んじられる現場を知る私が、「安全に声を上げる自由」を次世代に残すための、人生を賭けた挑戦です。
+バーチャル・プロテスト・プロトコル（VPP）は、ただの技術プロジェクトではありません。命が大切にされない現実を知っているからこそ、次の世代に「安全に声を上げられる自由」を残したい。
+それが、これに取り組んでいる理由であり、私の人生のテーマです。
 The Virtual Protest Protocol (VPP) is more than just a technical endeavor. It is my life's mission to leave the next generation the "freedom to speak safely," built by someone who knows the reality of where life is undervalued.
