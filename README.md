@@ -1,5 +1,5 @@
 VPP: Virtual Protest Protocol (v1.0)
-TL;DR / 要約
+TL;DR /
 Status: Proposed specification (v1.0). This protocol has not yet been implemented.
 [EN]
 VPP (Virtual Protest Protocol) is an open, non-partisan protocol for enabling anonymous, low-threshold civic expression in digital space.
