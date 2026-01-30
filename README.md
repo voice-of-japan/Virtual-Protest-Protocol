@@ -306,9 +306,30 @@ to research institutions and media.
 このプロトコルのビジョンに共感し、  
 OSSとして社会実装を共に行う  
 エンジニアおよび支援団体を求めています。
-
 ### [EN]
 I am not a technical specialist.  
 I am seeking engineers and organizations  
 who share this vision  
 and are willing to implement it as open-source software.
+
+## 立案者について / About the Author
+
+### [JP]
+75歳の元魚屋。  
+日本の初期ネット文化を象徴する作品の一つである「Crimson Room」のプロデューサー。  
+現在は、福島第一原発事故に関する賠償窓口業務に従事しています。
+
+これまでの経験から、次世代には「格差」や「分断」ではなく、  
+誰もが等しく意思を表明し、対立を暴力ではなく合意へと編み直していくための  
+**公共の広場**を残したいと考えています。
+
+---
+
+### [EN]
+A 75-year-old former fishmonger.  
+Producer of *Crimson Room*, one of the landmark works of Japan’s early internet culture.  
+Currently engaged in compensation support work related to the Fukushima Daiichi nuclear power plant accident.
+
+Based on these experiences, I hope to leave the next generation not a society defined by inequality and division,  
+but a **public forum** where everyone can express their will on equal footing  
+and work toward new forms of consensus without resorting to violence.
