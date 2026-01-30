@@ -200,7 +200,22 @@ Once a cell is full, a new one is created.
 
 ---
 
-## 9. 反暴力AIモデレーション / Transparent AI Moderation
+### 9. パレードの視覚的設計と能動的参加 / Visual Design & Active Engagement
+
+> [!IMPORTANT]
+> **A. 意見の混在による分断の解消と統計の可視化 / Mixed Opinions & Statistical Clarity**
+>
+> * **JP:** 各セル内では、賛成・反対・注視（Observe）のアバターが分け隔てなく混在して表示されます。視覚的な分断（エコーチェンバー）を避ける一方で、**各項目の正確な集計実態は、常に下段のリアルタイム・バー（項目4参照）によって一目で把握できる**設計となっています。
+> * **EN:** Within each cell, **YES, NO, and OBSERVE** avatars march together. While avoiding visual polarization, the **precise statistical breakdown is always clearly visible on the real-time bar at the bottom (see item 4)**.
+
+> [!TIP]
+> **B. クリックによる意思表示の証明 / Engagement via Clicking (Anti-Bot)**
+>
+> * **JP:** アバターは、ユーザーにクリック（タップ）されることで動作し、個人の主張（吹き出し）を表示します。これにより、単なる数値だけでなく、放置アカウントや自動ボットではない「生きた人間の積極的な関与」であることを証明します。
+>
+---
+
+## 10. 反暴力AIモデレーション / Transparent AI Moderation
 
 ### [JP]
 AIモデレーターが発言をリアルタイムで監視します。
@@ -218,7 +233,7 @@ AI moderators monitor statements in real time.
 
 ---
 
-## 10. プライバシー設計 / Privacy by Design
+## 11. プライバシー設計 / Privacy by Design
 
 ### [JP]
 デモ終了後、  
@@ -232,7 +247,7 @@ except for aggregated statistical data such as gender, age group, and region.
 
 ---
 
-## 11. 運営方針・国別仕様 / Operation Model
+## 12. 運営方針・国別仕様 / Operation Model
 
 ### [JP]
 - 米国以外はNPO方式で運営  
@@ -259,7 +274,7 @@ and generally limited to issues covered multiple times by major newspapers.
 
 ---
 
-## 12. 米国版仕様（概要） / U.S. Version Overview
+## 13. 米国版仕様（概要） / U.S. Version Overview
 
 ### [JP]
 米国にはVOAが存在するため、  
@@ -299,7 +314,7 @@ to research institutions and media.
 
 ---
 
-## 13. 開発協力の呼びかけ / Call for Collaboration
+## 14. 開発協力の呼びかけ / Call for Collaboration
 
 ### [JP]
 私は技術の専門家ではありません。  
