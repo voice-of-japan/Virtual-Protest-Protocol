@@ -245,6 +245,27 @@ After the demonstration ends,
 all personally identifiable information and statements are deleted immediately,  
 except for aggregated statistical data such as gender, age group, and region.
 
+### 11.x. Advanced Roadmap for Privacy & Resilience / プライバシーと堅牢性のための高度なロードマップ
+
+To achieve both "complete anonymity" and "democratic integrity" at a professional technical level, we are exploring the following four-pillar implementation strategy:  
+（「完全な匿名性」と「民主的な整合性」をプロフェッショナルな技術水準で両立させるため、以下の4つの柱からなる実装戦略を検討しています。）
+
+*   **Absolute Anonymity via Zero-Knowledge Proofs (ZKP) / ゼロ知識証明による絶対的な匿名性:**  
+    We aim to adopt [Zero-Knowledge Proofs (ZK-SNARKs)](https://ethereum.org) to allow users to prove they are "valid participants" without revealing their identity, metadata, or IP addresses to the server.  
+    （[ゼロ知識証明](https://ja.wikipedia.org)を導入し、サーバーにアイデンティティやIPアドレスを明かすことなく、「正当な参加者であること」のみを数学的に証明する仕組みを目指します。）
+
+*   **Anti-Bot Measures via Client-side PoW (Proof of Work) / クライアントサイドPoWによるボット対策:**  
+    By requiring a few seconds of computation (e.g., [Hashcash](https://en.wikipedia.org)) before submission, we can drastically increase the cost for bots without collecting any personal data. This ensures the system remains open to human users while neutralizing mass-attack attempts.  
+    （投稿前に数秒の計算処理（[Hashcash](https://ja.wikipedia.org)等）を要求することで、個人情報を収集せずにボットによる攻撃コストを劇的に高め、大量投稿を無効化します。）
+
+*   **Double-Submission Prevention via Nullifiers / ヌルファイアによる二重投稿の排除:**  
+    To ensure "one person, one voice" without compromising anonymity, we plan to implement a mechanism (Nullifiers) that detects repeated use of the same anonymous credential within a single protest session.  
+    （匿名性を保ったまま「一人一票」を保証するため、特定のデモ内で同じ匿名資格が二度使われることを検知する仕組み（ヌルファイア）を導入します。）
+
+*   **Transparent AI Moderation / AIによる透明性の高いモデレーション:**  
+    To avoid human censorship, we will utilize open-source AI models to flag prohibited content based on community-defined guidelines, ensuring neutral and explainable moderation.  
+    （人間による検閲を避けつつ、コミュニティが合意したガイドラインに基づき、オープンソースAIが中立かつ説明可能な形で不適切な内容をチェックします。）
+
 ---
 
 ## 12. 運営方針・国別仕様 / Operation Model
@@ -314,18 +335,16 @@ to research institutions and media.
 
 ---
 
-## 14. 開発協力の呼びかけ / Call for Collaboration
+### 14. 開発協力・パートナーシップの呼びかけ / Call for Collaboration & Partnership
 
-### [JP]
-私は技術の専門家ではありません。  
-このプロトコルのビジョンに共感し、  
-OSSとして社会実装を共に行う  
-エンジニアおよび支援団体を求めています。
-### [EN]
-I am not a technical specialist.  
-I am seeking engineers and organizations  
-who share this vision  
-and are willing to implement it as open-source software.
+**[JP]**
+私は技術の専門家ではありません。しかし、2013年から福島第一原発の除染や構内作業、そして賠償相談窓口の最前線に立ち、社会の「分断」と「沈黙」を10年以上見つめ続けてきました。
+
+このプロトコルのビジョンに共感し、誰もが「コスト」や「リスク」を恐れずに、かつ安全に声を上げられる社会をOSS（オープンソース）として共に実装してくれるエンジニアを求めています。また、個人の志を越えて、この仕組みの「受け皿」となり、共に社会実装を推進してくださる支援団体やNPOからのご連絡を心よりお待ちしています。
+
+**[EN]**
+I am not a technical specialist. However, since 2013, I have spent over a decade on the front lines of Fukushima?from decontamination and on-site work at the nuclear power plant to the compensation counseling desk?witnessing the "division" and "silence" of our society firsthand.
+
 
 ## 立案者について / About the Author
 
