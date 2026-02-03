@@ -114,7 +114,7 @@ a. ハンドルネーム
 - AIモデレーターによる重複チェックを行う  
 
 b. 年齢層  
-- u18 / 19–39 / 40–64 / 65u  
+- u18 / 18–39 / 40–64 / 65u  
 - 国内法に抵触しない範囲で設定  
 
 c. 性別  
@@ -136,7 +136,7 @@ a. Handle name
 - Checked for duplication by AI moderator  
 
 b. Age group  
-- u18 / 19–39 / 40–64 / 65u  
+- u18 / 18–39 / 40–64 / 65u  
 - Must comply with domestic laws  
 
 c. Gender  
