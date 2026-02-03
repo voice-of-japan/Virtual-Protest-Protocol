@@ -146,7 +146,22 @@ d. Region of residence
 
 e. Statement text  
 - Up to 80 characters  
-- Content checked by AI moderator  
+- Content checked by AI moderator
+
+### 6-2. Privacy Compliance & Data Protection (プライバシー保護と法規制への適合)
+
+To ensure the safety of participants and comply with global privacy standards such as the **CCPA (California Consumer Privacy Act)** and **GDPR**, this protocol implements "Privacy by Design."
+参加者の安全を確保し、カリフォルニア州消費者プライバシー法（CCPA）やGDPRなどの国際的なプライバシー基準に準拠するため、本プロトコルは「プライバシー・バイ・デザイン」を実装します。
+
+*   **Statistical Anonymity (統計的匿名性):** 
+    Age data is collected only in broad ranges (18-39 / 40-64 / 65+). This granular level makes "re-identification" (identifying a specific individual) mathematically impossible when combined with gender and state.
+    年齢データは広範な区分（18-39歳 / 40-64歳 / 65歳以上）でのみ収集されます。この粒度は、性別や居住州と組み合わせても、数学的に特定の個人を再識別（名寄せ）することを不可能にします。
+*   **Zero-IP Retention (IPアドレスの不保持):** 
+    The system is designed to decouple and discard the user's IP address at the moment of attribute submission. No logs that could link an individual to an avatar are maintained.
+    システムは、属性データが送信された瞬間にIPアドレスを切り離し、破棄するように設計されています。個人とアバターを結びつけるログは一切保持されません。
+*   **Compliance (法規制への適合):** 
+    Since the data collected does not constitute "Personal Information" under CCPA/CPRA, it is exempt from "Right to Opt-Out" requests, ensuring the stability of the statistical protest data.
+    収集されるデータはCCPA/CPRAにおける「個人情報」の定義に該当しない非識別化データであるため、「個人情報の販売停止権」等の対象外となり、統計的な示威データの安定性が保たれます。
 
 ---
 
