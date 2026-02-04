@@ -371,6 +371,7 @@ I am not a technical specialist. However, since 2013, I have spent over a decade
 これまでの経験から、次世代には「格差」や「分断」ではなく、  
 誰もが等しく意思を表明し、対立を暴力ではなく合意へと編み直していくための  
 **公共の広場**を残したいと考えています。
+連絡先：fishspr0038@yahoo.co.jp
 
 ---
 
@@ -382,3 +383,4 @@ Currently engaged in compensation support work related to the Fukushima Daiichi 
 Based on these experiences, I hope to leave the next generation not a society defined by inequality and division,  
 but a **public forum** where everyone can express their will on equal footing  
 and work toward new forms of consensus without resorting to violence.
+Contact:fishapr0038@yahoo.co.jp
