@@ -1,7 +1,9 @@
 # Virtual Protest Protocol (VPP)
 
-Note: To understand the social background and the humanitarian necessity of this project, please read our statement: [Link to Issue #6]
-
+> [!IMPORTANT]
+> **Why we are building VPP**  
+> To understand the social mission and the deep personal experiences (Fukushima recovery) behind this project, please read our statement in **[Issue #6](https://github.com)**.
+> 
 ## 1. 概要 / Abstract
 
 ### [JP]
