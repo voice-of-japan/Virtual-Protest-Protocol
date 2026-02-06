@@ -1,5 +1,7 @@
 # Virtual Protest Protocol (VPP)
 
+Note: To understand the social background and the humanitarian necessity of this project, please read our statement: [Link to Issue #6]
+
 ## 1. 概要 / Abstract
 
 ### [JP]
