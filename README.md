@@ -388,3 +388,16 @@ Based on these experiences, I hope to leave the next generation not a society de
 but a **public forum** where everyone can express their will on equal footing  
 and work toward new forms of consensus without resorting to violence.
 Contact:fishapr0038@yahoo.co.jp
+
+## Current Issues / 現在の検討課題
+
+Below are the core issues we are currently addressing to implement the Virtual Protest Protocol (VPP). We welcome your feedback and contributions.  
+VPPの実装に向けて現在取り組んでいる主要な課題です。皆様のご意見と貢献を歓迎します。
+＃1.[Backend/Policy] 二重投稿防止の実装 / Implementation of Double-Submission Prevention
+＃2.Operational Policy for VPP (Virtual Protest Protocol)/運営方針：バーチャル・プロテスト・プロトコル（VPP）
+＃3.ウェブサイト構成（案） / Website Structure Proposal
+＃4.【募集】バーチャルデモを彩る「多様なアバター」のアイデア / [Brainstorming] Ideas for Diverse 2D Avatars
+＃5.Avatar Image
+＃6.Why I am building VPP: From the Frontlines of Fukushima to a New Tool for Democracy/なぜ私はVPPを創るのか：福島という現場から、民主主義のための新たな道具へ
+
+
