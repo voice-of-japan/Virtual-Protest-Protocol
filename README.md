@@ -129,7 +129,15 @@ d. 居住地域
 
 e. 主張テキスト  
 - 80文字以内  
-- AIモデレーターによる内容チェックを実施  
+- AIモデレーターによる内容チェックを実施
+- 
+f. Avatar Selection / アバターの選択**
+    *   (JP) 20種類以上のコンセプト（Issue #5）から、自分の分身となる2Dアバターを選択する。
+    *   (EN) Select a 2D avatar as your digital twin from over 20 unique concepts (defined in Issue #5).
+    *   
+g.Yes / No / Observe Selection / 立場の選択
+(JP) 議題に対し「Yes（青）/ No（赤）/ Observe（灰色）」のいずれかを選択。その色はハンドルネームの枠に反映され、自らの立場を明確にした状態でデモ空間へ入場する。
+(EN) Choose your stance: Yes (Blue), No (Red), or Observe (Gray). This color will be reflected in the frame of your handle name, allowing you to enter the protest space with a visible position.
 
 ### [EN]
 Participants provide the following:
