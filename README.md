@@ -1,9 +1,66 @@
-# Virtual Protest Protocol (VPP)
+## Virtual Protest Protocol (VPP)
+### **AI時代において、個人の「声」に力を取り戻す**
+### **Empowering Human Voices in the AI Era**
 
-> [!IMPORTANT]
-> **Why we are building VPP**  
-> To understand the social mission and the deep personal experiences (Fukushima recovery) behind this project, please read our statement in **[Issue #6](https://github.com)**.
-> 
+---
+
+## 1. 哲学：なぜVPPなのか / Philosophy: Why VPP?
+
+**「1,300兆円の借金と沈黙する社会を、次世代に残したくない」**
+**"I do not want to leave a silent society and 1.3 quadrillion yen of debt to the next generation."**
+
+私は75歳の元魚屋であり、かつて世界的にヒットした脱出ゲーム『クリムゾンルーム』をプロデュースした経験を持ちます。長年、オンライン署名サイト「[日本の声](https://voice-of-japan.net)」を運営してきましたが、既存のSNSやデモだけでは、日本の若者の政治的無関心や閉塞感を打破できないことを痛感しました。
+I am a 75-year-old former fishmonger and the producer of the global hit escape game "Crimson Room." Over the years, I have operated the online petition site "Voice of Japan." However, I realized that existing social media and physical protests alone cannot break the political apathy and sense of stagnation among Japan's youth.
+
+AIが情報を生成し、個人の声が埋もれてしまう現代において、「一人の人間が、確かにそこにいて、意思を持っていること」を可視化する手段が必要です。VPPは、2Dアバターという「デジタルな身体」を通じて、抑圧された環境下でも安全に、かつ力強く意思を表示するためのオープンなプロトコルです。
+In an era where AI generates information and individual voices are buried, we need a way to visualize that "a human being is truly there and has an intention." VPP is an open protocol for expressing will safely and powerfully even in oppressive environments through a "digital body" (2D avatar).
+
+---
+
+## 2. 仕組み：誰も気づかなかった「盲点」 / How It Works: The "Blind Spot"
+
+VPPは、複雑なメタバースや特定の巨大プラットフォームを必要としません。VPPの核心は、既存のWeb技術を活用し、**「特定のテーマや国別に設定されたウェブ会場に、人々の意思を可視化する」**という、極めてシンプルで軽量な仕組みにあります。
+VPP does not require complex metaverses or specific giant platforms. The core of VPP lies in an extremely simple and lightweight mechanism: visualizing people's intentions on web venues set by specific themes or countries, utilizing existing web technologies.
+
+### **【デモ実施の3ステップ / 3-Step Demonstration】**
+1.  **Identity（アバター選択）**: ユーザーは自身の意思を象徴する2Dアバターとメッセージを選択・設定します。
+    (Users select/set a 2D avatar and message symbolizing their intent.)
+2.  **Projection（投影）**: 設定された国別・テーマ別のウェブ会場に、参加者のアバターがリアルタイムで表示されます。
+    (Participant avatars are displayed in real-time on designated country-specific or thematic web venues.)
+3.  **Demonstration（示威行動）**: 物理的な場所に集まることなく、特定のウェブ空間に同じ志を持つアバターが集結し、視覚的なデモを形成します。
+    (Avatars with the same purpose gather in a specific web space to form a visual demonstration without physical gathering.)
+
+---
+
+## 3. 社会的使命：三つの柱 / Social Mission: The Three Pillars
+
+VPPは単なる抗議ツールではなく、社会的分断を防ぎ、健全な民主主義を構築するための3つの機能を備えています。
+VPP is more than a protest tool; it features three functions to prevent social polarization and build a healthy democracy.
+
+1.  **Participate（参加）**: 誰もが安全に「個人の意思」を表明できる場を提供します。
+    (Provides a safe space for everyone to express their "individual will.")
+2.  **Observe（観察・注視）**: 対立する意見を持つアバター群を同じ空間で客観的に「観察」し、エコーチェンバーを打破します。
+    (Enables objective "observation" of opposing avatar groups in the same space, breaking echo chambers.)
+3.  **Prevent Division（分断の回避）**: 「静かなる多数派」を可視化し、AIによる二極化を防ぎ、理性的な対話の基盤を守ります。
+    (Visualizes the "silent majority" to prevent AI-driven polarization and protect the foundation of rational dialogue.)
+
+---
+
+## 4. 背景とビジョン / Background & Vision
+
+魚屋として地域に根ざし、デジタルで世界を繋げた私だからこそ見える「盲点」があります。このシンプルな仕組みで、世界中の「声なき人々」に武器を与えます。
+As someone who was rooted in the community as a fishmonger and connected the world through digital content, I see a "blind spot." This simple mechanism will empower the "voiceless people" around the world.
+
+アメリカの **Open Technology Fund (OTF)** からは「This is great」との評価をいただき、現在は **Mozilla Foundation** や **NLnet** との連携を目指しています。
+The **Open Technology Fund (OTF)** in the US has evaluated this as "This is great," and I am currently seeking collaboration with the **Mozilla Foundation** and **NLnet**.
+
+---
+
+## 5. 詳細仕様 / Detailed Specifications
+※技術的な定義や詳細については、以下の既存ドキュメントを参照してください。
+(For technical definitions and details, please refer to the following existing documents below.)
+
+---
 ## 1. 概要 / Abstract
 
 ### [JP]
