@@ -4,83 +4,38 @@
 
 ---
 
+# Virtual Protest Protocol (VPP)
+
 ## 1. 哲学：なぜVPPなのか / Philosophy: Why VPP?
+As a 75-year-old pioneer, I refuse to leave a legacy of silence and division. VPP is the **"Active (動)"** side of our mission—reclaiming civic space by visualizing the **collective energy and heat** of those often dismissed in modern society.
+75歳の開拓者として、私は沈黙と分断を遺したくありません。VPPは私たちの活動の**「動」**の側面であり、集団的な**「人の気配と熱量」**を可視化し、市民の場（シビック・スペース）を取り戻すためのインフラです。
 
-**「1,300兆円の借金と沈黙する社会を、次世代に残したくない」**
-**"I do not want to leave a silent society and 1.3 quadrillion yen of debt to the next generation."**
+## 2. コンセプト：熱量と気配の可視化 / Concept: Manifestation of Energy
+To ensure the protocol is accessible to everyone, we adopt a **"Minimum-Spec, Maximum-Impact"** architecture. This "lightness" is our technical answer to inclusivity.
+誰一人取り残さないため、「最小スペックで最大の影響」を生む設計を採用しています。この「軽さ」こそが、参加の障壁を取り払うための回答です。
 
-私は75歳の元魚屋であり、かつて世界的にヒットした脱出ゲーム『クリムゾンルーム』をプロデュースした経験を持ちます。長年、オンライン署名サイト「[日本の声](https://voice-of-japan.net)」を運営してきましたが、既存のSNSやデモだけでは、日本の若者の政治的無関心や閉塞感を打破できないことを痛感しました。
-I am a 75-year-old former fishmonger and the producer of the global hit escape game "Crimson Room." Over the years, I have operated the online petition site "Voice of Japan." However, I realized that existing social media and physical protests alone cannot break the political apathy and sense of stagnation among Japan's youth.
+## 3. 実装の肝：超軽量な存在証明 / Lean Manifestation
+*   **3.1 Four-Frame Sprite Avatars (Motion & Presence):**
+    Manifesting "Collective Energy" with ultra-lightweight assets (Standing/Walking).
+    （4枚のスプライト：画像4枚で一人を表現。極限の軽さで「人の気配と熱量」をデジタル空間に生み出します。）
+*   **3.2 Cell-Based Unit Management (50-Person Clusters):**
+    Scalable "Heat of the Crowd" without overloading the engine.
+    （50人を1単位とするセル管理：低スペック端末でも「群衆の熱量」を体感可能にします。）
 
-AIが情報を生成し、個人の声が埋もれてしまう現代において、「一人の人間が、確かにそこにいて、意思を持っていること」を可視化する手段が必要です。VPPは、2Dアバターという「デジタルな身体」を通じて、抑圧された環境下でも安全に、かつ力強く意思を表示するためのオープンなプロトコルです。
-In an era where AI generates information and individual voices are buried, we need a way to visualize that "a human being is truly there and has an intention." VPP is an open protocol for expressing will safely and powerfully even in oppressive environments through a "digital body" (2D avatar).
+## 4. 推奨技術 / Proposed Technology Stack
+*   **Visuals:** React / Matter.js (2D physics for gathering avatars).
+*   **AI Moderator:** OpenAI API to intercept hate speech and preserve the purity of the protest.
+*   **Policy:** Non-Profit, No ads, No tracking. Operated by the founder's personal funds and donations.
 
----
+## 5. 詳細仕様への案内 / Guide to Detailed Specifications
+*(The following sections provide the technical framework and strategic roadmap.)*
+（以下のセクションでは、技術的フレームワークと戦略的ロードマップを詳しく記述します。
 
-## 2. 仕組み：誰も気づかなかった「盲点」 / How It Works: The "Blind Spot"
-
-VPPは、複雑なメタバースや特定の巨大プラットフォームを必要としません。VPPの核心は、既存のWeb技術を活用し、**「特定のテーマや国別に設定されたウェブ会場に、人々の意思を可視化する」**という、極めてシンプルで軽量な仕組みにあります。
-VPP does not require complex metaverses or specific giant platforms. The core of VPP lies in an extremely simple and lightweight mechanism: visualizing people's intentions on web venues set by specific themes or countries, utilizing existing web technologies.
-
-### **【デモ実施の3ステップ / 3-Step Demonstration】**
-1.  **Identity（アバター選択）**: ユーザーは自身の意思を象徴する2Dアバターとメッセージを選択・設定します。
-    (Users select/set a 2D avatar and message symbolizing their intent.)
-2.  **Projection（投影）**: 設定された国別・テーマ別のウェブ会場に、参加者のアバターがリアルタイムで表示されます。
-    (Participant avatars are displayed in real-time on designated country-specific or thematic web venues.)
-3.  **Demonstration（示威行動）**: 物理的な場所に集まることなく、特定のウェブ空間に同じ志を持つアバターが集結し、視覚的なデモを形成します。
-    (Avatars with the same purpose gather in a specific web space to form a visual demonstration without physical gathering.)
-
----
-
-## 3. 社会的使命：三つの柱 / Social Mission: The Three Pillars
-
-VPPは単なる抗議ツールではなく、社会的分断を防ぎ、健全な民主主義を構築するための3つの機能を備えています。
-VPP is more than a protest tool; it features three functions to prevent social polarization and build a healthy democracy.
-
-1.  **Participate（参加）**: 誰もが安全に「個人の意思」を表明できる場を提供します。
-    (Provides a safe space for everyone to express their "individual will.")
-2.  **Observe（観察・注視）**: 対立する意見を持つアバター群を同じ空間で客観的に「観察」し、エコーチェンバーを打破します。
-    (Enables objective "observation" of opposing avatar groups in the same space, breaking echo chambers.)
-3.  **Prevent Division（分断の回避）**: 「静かなる多数派」を可視化し、AIによる二極化を防ぎ、理性的な対話の基盤を守ります。
-    (Visualizes the "silent majority" to prevent AI-driven polarization and protect the foundation of rational dialogue.)
 
 ---
-
-## 4. 背景とビジョン / Background & Vision
-
-魚屋として地域に根ざし、デジタルで世界を繋げた私だからこそ見える「盲点」があります。このシンプルな仕組みで、世界中の「声なき人々」に武器を与えます。
-As someone who was rooted in the community as a fishmonger and connected the world through digital content, I see a "blind spot." This simple mechanism will empower the "voiceless people" around the world.
-
-アメリカの **Open Technology Fund (OTF)** からは「This is great」との評価をいただき、現在は **Mozilla Foundation** や **NLnet** との連携を目指しています。
-The **Open Technology Fund (OTF)** in the US has evaluated this as "This is great," and I am currently seeking collaboration with the **Mozilla Foundation** and **NLnet**.
-
----
-
-## 5. 詳細仕様 / Detailed Specifications
-※技術的な定義や詳細については、以下の既存ドキュメントを参照してください。
-(For technical definitions and details, please refer to the following existing documents below.)
-
----
-## 1. 概要 / Abstract
-
-### [JP]
-VPP（Virtual Protest Protocol）は、  
-2Dアバターを用いたデジタル空間における示威行動（デモ・集会）のための  
-**オープンソース・プロトコル**です。
-
-SNSにおける誹謗中傷の拡散、  
-および物理的デモが持つ高コスト・高リスクという課題を回避し、  
-「反暴力」と「沈黙の可視化」を軸とした  
-**新しい合意形成のための公共インフラ**を提供することを目的とします。
-
-### [EN]
-VPP (Virtual Protest Protocol) is an open-source protocol  
-for demonstrations and rallies conducted in a digital space using 2D avatars.
-
-It aims to address the issues of online harassment prevalent in social media  
-and the high cost and risk of physical protests,  
-by providing a public infrastructure for consensus-building  
-based on non-violence and the visualization of silence.
+## 1. 技術的要件と背景 / Technical Requirements & Background
+To visualize "Mass Momentum" on the web, we require low-latency synchronization and high-performance 2D rendering that works on restricted networks.
+ウェブ上で「群衆の躍動」を可視化するため、制限されたネットワーク環境でも動作する低遅延同期と高性能な2Dレンダリングを追求します。
 
 ---
 
@@ -419,49 +374,24 @@ to research institutions and media.
 
 ---
 
-### 14. 開発協力・パートナーシップの呼びかけ / Call for Collaboration & Partnership
-
-**[JP]**
-私は技術の専門家ではありません。しかし、2013年から福島第一原発の除染や構内作業、そして賠償相談窓口の最前線に立ち、社会の「分断」と「沈黙」を10年以上見つめ続けてきました。
-
-このプロトコルのビジョンに共感し、誰もが「コスト」や「リスク」を恐れずに、かつ安全に声を上げられる社会をOSS（オープンソース）として共に実装してくれるエンジニアを求めています。また、個人の志を越えて、この仕組みの「受け皿」となり、共に社会実装を推進してくださる支援団体やNPOからのご連絡を心よりお待ちしています。
-
-**[EN]**
-I am not a technical specialist. However, since 2013, I have spent over a decade on the front lines of Fukushima?from decontamination and on-site work at the nuclear power plant to the compensation counseling desk?witnessing the "division" and "silence" of our society firsthand.
-
+## 14. 開発協力・パートナーシップの呼びかけ / Call for Collaboration & Partnership
+We seek technologists and visionaries who believe in the power of **"Democratic Tech."** Let's build a "Visible Plaza" together where no voice is left behind.
+「民主主義のための技術」を信じる技術者やビジョナリーを募集しています。誰の声も置き去りにされない「可視化された広場」を共に築きましょう。
 
 ## 立案者について / About the Author
+As the founder of **"Voice of Japan"** and a veteran of early viral internet content (such as the **Crimson Room** era), I have spent decades observing the intersection of technology and human emotion. I understand that "Content + Purpose" is what drives massive, organic participation. 
 
-### [JP]
-75歳の元魚屋。  
-日本の初期ネット文化を象徴する作品の一つである「Crimson Room」のプロデューサー。  
-現在は、福島第一原発事故に関する賠償窓口業務に従事しています。
+This protocol is my final challenge as a 75-year-old former fishmonger—to ensure that the marginalized can stand together and their **"Collective Heat"** can be felt by the world.
 
-これまでの経験から、次世代には「格差」や「分断」ではなく、  
-誰もが等しく意思を表明し、対立を暴力ではなく合意へと編み直していくための  
-**公共の広場**を残したいと考えています。
-連絡先：fishspr0038@yahoo.co.jp
+「日本の声」創設者であり、かつてバイラルなネットコンテンツ（クリムゾンルーム等）を運営した経験から、私は技術と人間の感情が交差する場を見つめてきました。「コンテンツと大義」こそが、自発的で大規模な参加を生む原動力であると確信しています。
 
----
+75歳の元魚屋として、これが私の最後の挑戦です。声なき人々が共に立ち上がり、その**「集団的な熱量」**を世界に届けるための場所を遺すために、力を貸してください。
 
-### [EN]
-A 75-year-old former fishmonger.  
-Producer of *Crimson Room*, one of the landmark works of Japan’s early internet culture.  
-Currently engaged in compensation support work related to the Fukushima Daiichi nuclear power plant accident.
-
-Based on these experiences, I hope to leave the next generation not a society defined by inequality and division,  
-but a **public forum** where everyone can express their will on equal footing  
-and work toward new forms of consensus without resorting to violence.
-Contact:fishapr0038@yahoo.co.jp
-
-## Current Issues / 現在の検討課題
-
-Below are the core issues we are currently addressing to implement the Virtual Protest Protocol (VPP). We welcome your feedback and contributions.  
-VPPの実装に向けて現在取り組んでいる主要な課題です。皆様のご意見と貢献を歓迎します。
-＃1.[Backend/Policy] 二重投稿防止の実装 / Implementation of Double-Submission Prevention
-＃2.Operational Policy for VPP (Virtual Protest Protocol)/運営方針：バーチャル・プロテスト・プロトコル（VPP）
-＃3.ウェブサイト構成（案） / Website Structure Proposal
-＃4.【募集】バーチャルデモを彩る「多様なアバター」のアイデア / [Brainstorming] Ideas for Diverse 2D Avatars
+## 現在の検討課題 / Current Issues
+*   **AI Moderation:** Refining real-time filtering for multi-language slogans to prevent hate speech while preserving protest integrity.
+*   **Scalability:** Optimizing 2D physics engines (Matter.js) to handle 10,000+ simultaneous participants.
+*   **AIモデレーション:** プロトコルの純粋性を守るため、多言語スローガンのリアルタイム・フィルタリングの精度を向上させる。
+*   **スケーラビリティ:** 1万人以上の同時参加に耐えうるよう、物理演算エンジン（Matter.js）の描画処理を最適化する。
 ＃5.Avatar Image
 ＃6.Why I am building VPP: From the Frontlines of Fukushima to a New Tool for Democracy/なぜ私はVPPを創るのか：福島という現場から、民主主義のための新たな道具へ
 
