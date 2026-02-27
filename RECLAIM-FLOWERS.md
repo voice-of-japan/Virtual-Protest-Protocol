@@ -21,16 +21,23 @@ We will establish this Altar of Flowers to honor and mourn the loss of every pre
 *   **2.2 Multi-language Ticker:** 投稿された弔文を翻訳せず原文のままテロップで表示。多言語が混ざり合うことで悲しみの普遍性を可視化。
 *   **2.3 AI Moderator:** OpenAI API等を使用。政治的スローガンや攻撃的議論をリアルタイムで遮断し、純粋な弔意のみを通過させる。
 
-### 3. Proposed Technology Stack
-*   **Frontend:** React / Vue.js / Matter.js
-*   **Backend:** Firebase / Supabase
-*   **Infrastructure:** Cloudflare (DDoS protection)
+### 3. Implementation Concept (Specific Themes) / 実装コンセプト
+不条理な死が発生している具体的な悲劇ごとに、個別の献花台を設けます。私たちの立場は厳格に中立であり、国籍、宗教、政治的帰属に関わらず、すべての失われた命を平等に悼みます。
 
-### 4. Operation Policy
-*   **Non-Profit:** 広告なし、データ収集なし。
-*   **Privacy First:** 完全匿名。ユーザー追跡やログ保存は行わない。
-*   **Organization:** 一般社団法人VPPアソシエイツ（設立準備中）
+*   **Example:** "Gaza & Israel / Feb 2026"
+*   **Principle:** 理不尽な死は平等に悼む。全ての犠牲者への弔意が同じ一つの献花台に共存し、悲しみの普遍性を可視化します。
 
----
-**Founder: Aizawa (Voice of Japan)**
+### 4. Proposed Technology Stack / 推奨技術
+*   **Frontend:** React / Vue.js / Matter.js (for 2D physics)
+*   **Backend:** Firebase / Supabase (Serverless)
+*   **Security:** Cloudflare (DDoS protection)
+*   **Donation:** Stripe integration (No ads, no data collection)
+
+### 5. Operation Policy / 運営方針
+*   **Non-Profit:** No ads, no data collection. Operated by the founder's personal funds and donations.
+*   **Privacy First:** Absolute anonymity. No user tracking or log storage.
+*   **非営利:** 広告なし、データ収集なし。創設者の個人資金と寄付によって運営。
+*   **プライバシー第一:** 完全匿名。ユーザー追跡やログ保存は行わない。
+
+### 6. Founder: Aizawa (Voice of Japan)
 75歳の元魚屋として、次世代に分断と借金の負債を遺さないための、私の最後の挑戦です。この「Silent Sanctuary」を築くために、あなたの力を貸してください。
