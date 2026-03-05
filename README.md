@@ -1,3 +1,23 @@
+# 📢 Project Status & Priority Implementation
+### **"Reclaim Flowers (RF)" - A Concrete Implementation for Global Democracy & AI Initiatives**
+**【VPPプロトコルの具現化：デジタル献花台 "RF" プロジェクトの実装開始】**
+
+This project is currently aligned with global initiatives focusing on **"Democracy x AI"**. (See the **3rd file** in the sidebar for background). As the first concrete implementation of the VPP philosophy, we are prioritizing the development of the **"Reclaim Flowers (RF)"** project.
+
+本プロジェクトは現在、国際的な「民主主義とAI（Democracy x AI）」の支援枠組みに沿って推進されています（背景については**左枠3番目のファイル**を参照）。VPP理念の最初の具現化として、デジタル献花台 **"Reclaim Flowers (RF)"** の実装協力を最優先で募集します。
+
+#### **🛠 Implementation Task (RF Project) / 実装指示**
+Please refer to the **6th file in the sidebar (`shutterstock_2343884805.jpg`)** as the visual design base.
+**左枠6番目の画像ファイル（薄いブルーの丸テーブル）**をベースに、以下を実装してください：
+
+1. **Background (Monochrome Sea)**: Mask the circular area in the background and replace it with a **Monochrome Sea** (Video/GIF).
+   - **背景（モノクロの海）**: 背景の円窓を、静かなモノクロームの海に差し替えてください。
+2. **Physics (Matter.js)**: The blue circular table acts as a static collision body. Flowers (PNG) fall from the top and accumulate into a **Trapezoidal Mound**.
+   - **物理演算**: 青い丸テーブルを衝突体とし、上から降る花を「台形状」に自然に積み上げてください。
+3. **AI Moderator (Sanctuary Guard)**: Use OpenAI API to filter messages. Allow ONLY pure expressions of mourning. **"Err on the side of silence."**
+   - **AI門番**: OpenAI APIを用い、純粋な弔意以外を0.1秒で遮断します。「迷ったら、沈黙（非表示）」を徹底してください。
+
+
 ## Virtual Protest Protocol (VPP)
 ### **AI時代において、個人の「声」に力を取り戻す**
 ### **Empowering Human Voices in the AI Era**
