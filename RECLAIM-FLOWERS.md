@@ -27,7 +27,15 @@ To build this "Silent Sanctuary," we aim for an extremely lightweight and secure
 
 - **Physics Engine**: Using Matter.js or similar, simulates gravity with 2D physics  
 - **Interaction**: Users select one flower from 20–30 PNG options and place it on the altar  
-- **Accumulation**: Flowers offered from around the world fall and accumulate in real time. The overlapping flowers visually represent the number of lives mourned. A maximum limit is set to reduce browser load.
+- **Accumulation**: 世界中から捧げられる花がリアルタイムに降り積もる演出。無数の花が重なり合うことで、失われた命の数と弔いの総量を可視化します。
+*   **Limit**: 花の蓄積が **3,333本** に達した時点でその献花台は終了し、新規の献花台（Altar）へ移行します。
+*   **Index**: 各献花台の隅には、目立たない形でシリアル番号が表示されます。
+
+**Accumulation**: Flowers offered from around the world fall and accumulate in real time. 
+*   **Limit**: Accumulation ends at **3,333 flowers**, after which it transitions to a new altar. 
+*   **Index**: An unobtrusive serial number is displayed in the corner of each altar.
+
+
 
 ### 2.2 Multi-language Ticker (Raw Voices)
 - **Principle**: 投稿された弔文（最大80文字）は翻訳せず原文のままテロップ表示  
@@ -78,14 +86,15 @@ Separate altars are set up for each specific place and time where unjust deaths 
 - **One-Way Experience**  
   Users select a flower, enter a condolence message, and offer it. No forums or discussion boards are provided; the experience is completely one-way.
 
-- **No Archive / Auto-Reset**  
-  投稿や弔文のアーカイブは行わず、ログは残しません。  
-  献花台は一定の条件（花の量や期間）を超えると自動的に消滅し、必要期間内であれば新しい献花台が自動生成されます。
+- **No Archive / Auto-Reset**
+投稿や弔文のアーカイブは行わず、ログは残しません。
+*   **Cycle**: 献花台の掲載期間は、**現地時間の「満月の夜」から「新月の朝」まで**とします。
+*   **Reset**: 上記の期間終了、または花の蓄積が上限（3,333本）に達した場合、献花台は自動的に消滅し、必要に応じて新しい台が生成されます。
 
-- **No Archive / Auto-Reset**  
-  No archiving of messages is done; no logs are kept.  
-  Altars automatically disappear when a set condition (number of flowers or duration) is met, and new altars are automatically generated within the necessary timeframe.
-
+**No Archive / Auto-Reset**
+No archiving of messages; no logs are kept. 
+*   **Cycle**: The display period is from the **night of the full moon to the morning of the new moon** (local time). 
+*   **Reset**: Altars disappear upon the end of this cycle or reaching the 3,333-flower limit, with new ones generated as needed.
 - **Cloudflare Integration**  
   全ての静的コンテンツ（花画像・CSS・JS）は Cloudflare を経由して配信され、高速で安定したアクセスを確保するとともに、DDoS攻撃や不正アクセスから保護されます。
 
