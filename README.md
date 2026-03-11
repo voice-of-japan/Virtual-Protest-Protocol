@@ -7,8 +7,8 @@ This project is currently aligned with global initiatives focusing on **"Democra
 本プロジェクトは現在、国際的な「民主主義とAI（Democracy x AI）」の支援枠組みに沿って推進されています（背景については**左枠3番目のファイル**を参照）。VPP理念の最初の具現化として、デジタル献花台 **"Reclaim Flowers (RF)"** の実装協力を最優先で募集します。
 
 #### **🛠 Implementation Task (RF Project) / 実装指示**
-Please refer to the **6th file in the sidebar (`shutterstock_2343884805.jpg`)** as the visual design base.
-**左枠6番目の画像ファイル（薄いブルーの丸テーブル）**をベースに、以下を実装してください：
+Please refer to the **7th file in the sidebar (`shutterstock_2343884805.jpg`)** as the visual design base.
+**左枠7番目の画像ファイル（薄いブルーの丸テーブル）**をベースに、以下を実装してください：
 
 1. **Background (Monochrome Sea)**: Mask the circular area in the background and replace it with a **Monochrome Sea** (Video/GIF).
    - **背景（モノクロの海）**: 背景の円窓を、静かなモノクロームの海に差し替えてください。
