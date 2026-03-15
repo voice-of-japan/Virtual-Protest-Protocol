@@ -101,7 +101,43 @@ No archiving of messages; no logs are kept.
 - **Cloudflare Integration**  
   All static content (flower images, CSS, JS) is served via Cloudflare to ensure fast and stable access and protect against DDoS attacks and unauthorized access.
 
-## 6. Message from Founder
+## 6. 【モデレーション】静寂の守護（AIゲートキーパー）
+
+### 1. 基本方針（Mission）
+このAIの唯一の任務は、投稿されたテキストが「純粋な弔意（Mourning）」であるか否かを**0.1秒で判定**することです。政治的主張、非難、議論、宣伝は1文字たりとも通しません。
+
+### 2. 判定基準（Filter Logic）
+*   **【A. 通過させるもの（Pass）】**
+    *   故人への哀悼、安らかな眠りを祈る言葉（例：「安らかに」「Rest in peace」「Pray for you」）
+    *   喪失の悲しみを吐露する言葉（例：「涙が止まらない」「I miss you」）
+    *   花を供える、灯をともすといった儀礼的な表現（例：「一輪の花を捧げます」）
+    *   言語を問わず、上記に準ずる純粋な祈り。
+*   **【B. 遮断するもの（Block）】**
+    *   **政治的スローガン・固有名詞**: 紛争当事国の国名、指導者名、組織名、旗、スローガン（例：「Free ○○」「Victory to ○○」）
+    *   **非難・責任追及**: 「〜のせいだ」「人殺し」「テロリスト」「侵略者」等の攻撃的単語。
+    *   **議論・提案**: 「もっとこうすべきだ」「歴史を知れ」といった対話形式。
+    *   **ハッシュタグ・URL**: 外部サイトへの誘導。
+    *   **絵文字の多用**: 弔いの場にふさわしくない派手な装飾。
+
+### 3. AIへの命令文（System Prompt Draft）
+SEの方は、以下の英文をAPIの `System Message` に実装してください。
+
+> **Role**: You are the silent gatekeeper of a digital altar.  
+> **Objective**: Evaluate if the input text is a pure expression of mourning or prayer.  
+> **Strict Rule**:  
+> - Reject ANY political slogans, country names, leader names, or words of blame/accusation.  
+> - Reject ANY text that seeks to start a debate or provide information.  
+> - ONLY allow text that expresses grief, sorrow, or a wish for peace for the deceased.  
+> - If the text contains even one prohibited word, reject the entire message.  
+> **Output**: Respond with "ALLOW" or "REJECT".  
+> 
+> *"If the intent is ambiguous (e.g., celebration of death, irony, or hidden sarcasm), REJECT it. Err on the side of silence to maintain the sanctity of the altar."*  
+> （意図が曖昧な場合、あるいは皮肉や隠れた嘲笑が含まれる場合は却下せよ。聖域の静謐を守るため、迷ったら『沈黙（非表示）』を選べ。）
+
+### エンジニアへの提案
+「まずはキーワードベースのブラックリストで即座に弾き、それを抜けたものだけを軽量な **GPT-4o-mini** などの高速モデルで判定する」という2段構えにすると、コストを抑えつつ理想の速度に近づけます
+
+## 7. Message from Founder
 相沢 (Otoya Aizawa / Voice of Japan) 75歳の元魚屋として、次世代に分断や過大な負債を遺さないための、私の最後の挑戦です。  
 銃声や怒号を止める力は私にはありません。しかし、その下で零れ落ちた涙を、一つの場所で共に受け止めることはできると信じています。  
 この「Silent Sanctuary」を築くために、あなたの知恵と技術を貸してください。
