@@ -416,3 +416,5 @@ This protocol is my final challenge as a 75-year-old former fishmonger—to ensu
 ＃6.Why I am building VPP: From the Frontlines of Fukushima to a New Tool for Democracy/なぜ私はVPPを創るのか：福島という現場から、民主主義のための新たな道具へ
 
 
+## 開発への参加・貢献について
+本プロジェクトへの貢献（ソースコード、ドキュメント等の提供）は、すべて本リポジトリのライセンス（MIT License）の下で公開されることに同意したものとみなします。
