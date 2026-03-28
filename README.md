@@ -407,14 +407,21 @@ This protocol is my final challenge as a 75-year-old former fishmonger—to ensu
 
 75歳の元魚屋として、これが私の最後の挑戦です。声なき人々が共に立ち上がり、その**「集団的な熱量」**を世界に届けるための場所を遺すために、力を貸してください。
 
-## 現在の検討課題 / Current Issues
-*   **AI Moderation:** Refining real-time filtering for multi-language slogans to prevent hate speech while preserving protest integrity.
-*   **Scalability:** Optimizing 2D physics engines (Matter.js) to handle 10,000+ simultaneous participants.
-*   **AIモデレーション:** プロトコルの純粋性を守るため、多言語スローガンのリアルタイム・フィルタリングの精度を向上させる。
-*   **スケーラビリティ:** 1万人以上の同時参加に耐えうるよう、物理演算エンジン（Matter.js）の描画処理を最適化する。
-＃5.Avatar Image
-＃6.Why I am building VPP: From the Frontlines of Fukushima to a New Tool for Democracy/なぜ私はVPPを創るのか：福島という現場から、民主主義のための新たな道具へ
+## Technical Architecture & Governance / 技術仕様とガバナンス
 
+このプロジェクトは、思想を確実に実行するために「設計による自治（Governance by Design）」を採用しています。
 
-## 開発への参加・貢献について
-本プロジェクトへの貢献（ソースコード、ドキュメント等の提供）は、すべて本リポジトリのライセンス（MIT License）の下で公開されることに同意したものとみなします。
+### 1. Privacy by Design (No Logs) / 設計によるプライバシー
+- **Implementation**: Leveraging **Cloudflare Workers** to process data strictly in memory.
+- **Privacy**: HTTP request logs and IP addresses are automatically discarded at the edge. No traces of users are ever stored or accessible, even by the administrator.
+- **実装**: Cloudflare Workersを活用し、データをメモリ内のみで処理します。リクエストログやIPアドレスはエッジ（ネットワークの境界）で即座に破棄され、管理者であってもユーザーを特定する情報は一切保持しません。
+
+### 2. AI-Driven Neutrality (The Silent Gatekeeper) / AIによる中立性
+- **Logic**: Moderation is fully delegated to an autonomous AI agent ("The Silent Gatekeeper") based on semantic analysis.
+- **Neutrality**: Human intervention is physically impossible in the filtering process. This ensures absolute political neutrality and prevents any human bias or external pressure.
+- **ガバナンス**: モデレーションは自律型AI「静かなる門番」に完全に委ねられています。フィルタリング過程に人間が介入することは物理的に不可能であり、政治的中立性を保ち、外部からの圧力や個人の偏見を排除します。
+
+### 3. Automated Lifecycle (The Lunar Cycle) / 月齢による自動サイクル
+- **Sync**: Altar deletion and refresh cycles are synced with real-time lunar phases via API (based on the conflict zone's capital time).
+- **Finality**: Data erasure is executed automatically by the system script when conditions (3,333 flowers or New Moon) are met, leaving no archives behind.
+- **終焉**: 献花台の消去と更新は、紛争地の首都時間に基づいた月齢APIと同期しています。条件（3,333本または新月の朝）に達した際、システムスクリプトによってすべてのデータが自動消去され、いかなるアーカイブも残りません。
