@@ -6,9 +6,10 @@
 亡くなった命には親兄弟・妻や子などの悲しみが染みついています。  
 尊い命の喪失を等しく悼むため、この献花台を設けます。
 
-The world is overflowing with irrational and unjust deaths.  
-Every life lost is steeped in the profound grief of parents, siblings, spouses, and children.  
-We establish this Digital Altar to honor and mourn the loss of every precious life, equally and without exception.
+The world is filled with senseless death.
+Every life lost carries with it the grief of parents, siblings, lovers, and children.
+We offer this altar to mourn each precious life ? without exception.
+
 
 ## 1. Overview / プロジェクト概要
 "Reclaim Flowers" は、政治、国境、紛争を超え、不条理に失われたすべての命を静かに悼むためのデジタル献花台プロトコルです。SNS上の議論や対立を排し、純粋な「祈り」と「喪失の共有」を可視化します。
