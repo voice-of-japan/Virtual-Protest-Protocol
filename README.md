@@ -421,7 +421,4 @@ This protocol is my final challenge as a 75-year-old former fishmonger—to ensu
 - **Neutrality**: Human intervention is physically impossible in the filtering process. This ensures absolute political neutrality and prevents any human bias or external pressure.
 - **ガバナンス**: モデレーションは自律型AI「静かなる門番」に完全に委ねられています。フィルタリング過程に人間が介入することは物理的に不可能であり、政治的中立性を保ち、外部からの圧力や個人の偏見を排除します。
 
-### 3. Automated Lifecycle (The Lunar Cycle) / 月齢による自動サイクル
-- **Sync**: Altar deletion and refresh cycles are synced with real-time lunar phases via API (based on the conflict zone's capital time).
-- **Finality**: Data erasure is executed automatically by the system script when conditions (3,333 flowers or New Moon) are met, leaving no archives behind.
-- **終焉**: 献花台の消去と更新は、紛争地の首都時間に基づいた月齢APIと同期しています。条件（3,333本または新月の朝）に達した際、システムスクリプトによってすべてのデータが自動消去され、いかなるアーカイブも残りません。
+
